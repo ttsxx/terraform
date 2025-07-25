@@ -1,0 +1,11 @@
+# Terraform variables
+*.tfvars
+.terraform/
+*.tfstate
+*.tfstate*
+*.ftplan
+*.terraform.lock.hcl
+*.crt
+*.key
+*.md
+
